@@ -1,0 +1,6 @@
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\obj\Debug\capaEntidades.pdb
+C:\Users\NOHELIA\Desktop\Escritorio\ProyectoEjemploBD\Ejemplo_Clases\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
